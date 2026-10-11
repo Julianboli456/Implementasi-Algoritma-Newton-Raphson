@@ -1,0 +1,7 @@
+{
+  "python": "3.12.14",
+  "os": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "logical_cpu_visible": 9,
+  "memory_visible": "10206508 kB"
+}
